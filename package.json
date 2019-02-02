@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder-app",
+  "version": "1.0.0",
+  "description": "Friend-Finger-app anaylzes the users'survey to match people with their least differences.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac5599656/FriendFinder-app.git"
+  },
+  "author": "Anne Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac5599656/FriendFinder-app/issues"
+  },
+  "homepage": "https://github.com/ac5599656/FriendFinder-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
