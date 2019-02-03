@@ -21,7 +21,7 @@ module.exports = function (app) {
             let difference = 0;
 
             for (let j = 0; j < friend.scores.length; j++) {
-                difference += Math.abs(friends[i].scores[j] - friend.scores[j]);
+                difference += Math.abs(parseInt(friends[i].scores[j]) - parseInt(friend.scores[j]));
             }
             if (difference < minDiff) {
                 minDiff = difference;
