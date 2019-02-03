@@ -10,7 +10,7 @@ Users can start by opening the server.js terminal and type node server.js. The a
 
 ## URL
 
-The following link is a live demo of the app: https://stark-ocean-79075.herokuapp.com/survey
+The following link is a live demo of the app: https://stark-ocean-79075.herokuapp.com
 
 ## More Info On FriendFinder-App
 
