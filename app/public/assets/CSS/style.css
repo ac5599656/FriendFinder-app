@@ -58,3 +58,11 @@ a {
     -webkit-text-stroke: 0.7px black;
     /* opacity: 0.9; */
 }
+
+#matchImage {
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
