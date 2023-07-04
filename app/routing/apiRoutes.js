@@ -1,7 +1,7 @@
 //import friend data
-let friends = require("../data/friend.js");
+let friends = require("../data/friend");
 
-
+console.log(friends)
 
 module.exports = function (app) {
 
